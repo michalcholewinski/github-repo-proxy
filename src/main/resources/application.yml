@@ -1,0 +1,9 @@
+server:
+  port: 9880
+spring:
+  jackson:
+    serialization:
+      WRITE_DATES_AS_TIMESTAMPS: false
+
+github:
+  url: https://api.github.com/
